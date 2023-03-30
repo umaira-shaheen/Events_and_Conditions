@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./index.css";
+
 const Eventhandlers=()=>{
   const purple="yellow";
   const [bg,setBg]=useState(purple);
